@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Chadidi</h1>
-<h3 align="center">A passionate front end engineer from Morocco</h3>
-
+<h5 align="center">A passionate Frontend Engineer using 🛠️ Typescript, Vue.js, Nuxt.js, React, NextJs, and Tailwind to build beautiful softwareS ✨ 🌐 🍃</h5>
+<br />
 <p align="left"> <a href="https://twitter.com/chadidi_o" target="blank"><img src="https://img.shields.io/twitter/follow/chadidi_o?logo=twitter&style=for-the-badge" alt="chadidi_o" /></a> </p>
 
 - 🔭 I’m currently working on [BHR](https://github.com/FxOmar/BHR)
