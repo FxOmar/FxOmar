@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [BHR](https://github.com/FxOmar/BHR)
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **VueJs, React, Typescript, anything related to front end**
 
 - 📫 How to reach me **omarchadidi@gmail.com**
