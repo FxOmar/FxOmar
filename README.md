@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Chadidi</h1>
 <p align="left"> <a href="https://twitter.com/chadidi_o" target="blank"><img src="https://img.shields.io/twitter/follow/chadidi_o?logo=twitter&style=for-the-badge" alt="chadidi_o" /></a> </p>
 
-- 🔭 I’m currently working on [Reqeza](https://github.com/FxOmar/Reqeza)
+- 🔭 I’m currently working at [Proxify](https://proxify.io/) as Vue.js Developer
 - 💬 Ask me about **VueJs, Typescript, anything related to front end**
 - 📫 How to reach me **omarchadidi@gmail.com**
 
