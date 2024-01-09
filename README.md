@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Chadidi</h1>
 <p align="left"> <a href="https://twitter.com/chadidi_o" target="blank"><img src="https://img.shields.io/twitter/follow/chadidi_o?logo=twitter&style=for-the-badge" alt="chadidi_o" /></a> </p>
 
-- 🔭 I’m currently working at [Proxify](https://proxify.io/) as Senior Front-end Developer
-- 💬 Ask me about **VueJs, Typescript, anything related to front end**
+- 💬 Ask me about **VueJs, Typescript, or anything related to the front end**
 - 📫 How to reach me **omarchadidi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
